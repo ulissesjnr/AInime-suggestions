@@ -1,4 +1,4 @@
-# Sugoi-Suggest
+# AInime-suggestions
 This project means to give anime suggestions based on your personal ratings for famous anime series.
 
 ## MODEL 1 - KNN with cosine similarity
