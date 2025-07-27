@@ -8,7 +8,15 @@ This aproach is avaliable in this [notebook](cosine_similarity.ipynb).
 
 It suggests anime that you will likely high-rate by comparing your ratings with X neighbors, beeing those the one with the most similarity to your ratings, so on suggestings anime they rated well and you did not rate those anime yet.
 
-### How to use it
+## MODEL 2 - XGBoost model 
+
+This aproach is avaliable in this [notebook](xgboost.ipynb).
+
+It suggests acording to amount of completed anime by the user, user gender, anime genre, anime episode duration and amount of episodes.
+
+# How to use the models
+
+## all models
 
 Download the dataset on [Kaagle](https://www.kaggle.com/datasets/azathoth42/myanimelist?resource=download&select=anime_cleaned.csv).
 
